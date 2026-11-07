@@ -1,4 +1,4 @@
-# Alt Detector
+
 
 Scans a Windows PC for Minecraft and Discord accounts and syncs them to the
 ban-evasion server, so alts on one machine are visible. Based on Siege's
